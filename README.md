@@ -1,11 +1,27 @@
-- 👋 Hi, @myselfapoorvtyagi
-- 👀 Certified Data Engineer | GCP & Python Specialist.
-- 🔭 I’m currently working on: Designing and optimizing scalable data pipelines on GCP and building real-time analytics solutions.
-- 🌱 I’m currently learning: Advanced cloud architecture, Kubernetes orchestration, and system design for large-scale distributed systems.
-- 👯 I’m looking to collaborate on: Data-driven product innovations, cloud data modernization projects, and open-source data engineering initiatives.
-- 🤔 I’m looking for help with: Exploring and securing opportunities to architect cutting-edge, global-scale data solutions, and collaborating with industry leaders in the cloud and data engineering space to drive innovation.
-- 💬 Ask me about: BigQuery, Airflow, Python, scalable ETL/ELT pipelines, data lake architecture, and best practices for data quality.
-- 📫 How to reach me: myselfapoorvtyagi@gmail.com | [linkedin.com/in/myselfapoorvtyagi](https://www.linkedin.com/in/myselfapoorvtyagi/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a firm believer in never leaving a task unfinished — I’ll dream about it until it’s solved. Whether it’s an ETL failure or a tricky data puzzle, I always ensure to see it through to completion.
+👋 Hey there, welcome! I am Apoorv Tyagi excited to connect with you — let’s explore how I can help you build stronger data solutions and drive real impact together!
 
+With over 6 years of experience in designing and implementing data solutions, I am also adept at collaborating with cross-functional teams to deliver high-impact business outcomes.
+
+🌱 Designing and optimizing scalable data pipelines on GCP and building real-time analytics solutions.
+🔭 Advanced cloud architecture, Kubernetes orchestration, and system design for large-scale distributed systems.
+👯 Looking to collaborate on data-driven product innovations, cloud data modernization projects, and open-source data engineering initiatives.
+💬 I can help you with designing robust data lake architectures, and implementing best practices for data quality to strengthen your team's capabilities and support organizational growth.
+
+😄 Pronouns: He/Him
+😄 Fun fact: Never leaving a task unfinished — dreaming about it until it’s solved.
+
+Technologies & Tools
+✔ Cloud Platforms: Google Cloud Platform, Amazon Web Services / AWS, Microsoft Azure
+✔ Google Cloud Platform: BigQuery, Composer, Cloud Storage, Dataflow, Pub/Sub, Compute engine, Cloud functions
+✔ Data Engineering & Warehousing: ETL/ELT processes, schema design, dimensional modeling, OLTP/OLAP systems
+✔ Programming Languages & Libraries: Python, PySpark, Pandas, NumPy, SQL, Paramiko, Java
+✔ Data Orchestration & Integration: Apache Airflow, Mage, Kafka, SSH & SFTP Connections
+✔ Database Technologies: MySQL, MongoDB, Google BigQuery
+✔ Automation & DevOps: Terraform, GitHub Actions, Vagrant, Falco
+✔ Containerization & Orchestration: Docker, Kubernetes, Linux
+✔ Version Control & Agile Practices: Git, Bitbucket, Jira, Scrum, Agile Methodologies
+✔ Frameworks & APIs: Django, REST APIs, Microservices architecture
+
+Reach me at, <a href="https://www.linkedin.com/in/myselfapoorvtyagi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
