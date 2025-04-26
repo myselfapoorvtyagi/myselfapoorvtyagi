@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on: Data-driven product innovations, cloud data modernization projects, and open-source data engineering initiatives.
 - 🤔 I’m looking for help with: Exploring and securing opportunities to architect cutting-edge, global-scale data solutions, and collaborating with industry leaders in the cloud and data engineering space to drive innovation.
 - 💬 Ask me about: BigQuery, Airflow, Python, scalable ETL/ELT pipelines, data lake architecture, and best practices for data quality.
-- 📫 How to reach me: myselfapoorvtyagi@gmail.com | linkedin.com/in/myselfapoorvtyagi
+- 📫 How to reach me: myselfapoorvtyagi@gmail.com | [linkedin.com/in/myselfapoorvtyagi](https://www.linkedin.com/in/myselfapoorvtyagi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a firm believer in never leaving a task unfinished — I’ll dream about it until it’s solved. Whether it’s an ETL failure or a tricky data puzzle, I always ensure to see it through to completion.
 
