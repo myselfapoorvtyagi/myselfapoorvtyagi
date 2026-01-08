@@ -10,6 +10,7 @@ With over 6 years of experience in designing and implementing data solutions, I 
 
 Technologies & Tools<br>
 ✔ Cloud Platforms: Google Cloud Platform, Amazon Web Services / AWS, Microsoft Azure<br>
+✔ AI tools & technologies: MCP, RAG, Vector DB, ChromaDB, Langchain <br>
 ✔ Google Cloud Platform: BigQuery, Composer, Cloud Storage, Dataflow, Pub/Sub, Compute engine, Cloud functions<br>
 ✔ Data Engineering & Warehousing: ETL/ELT processes, schema design, dimensional modeling, OLTP/OLAP systems<br>
 ✔ Programming Languages & Libraries: Python, PySpark, Pandas, NumPy, SQL, Paramiko, Java<br>
