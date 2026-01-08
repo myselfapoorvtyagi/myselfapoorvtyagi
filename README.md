@@ -1,7 +1,7 @@
 👋 Hey there, welcome! I am Apoorv Tyagi excited to connect with you. <a href="https://www.linkedin.com/in/myselfapoorvtyagi" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn--d9534f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <a href="https://www.github.com/myselfapoorvtyagi" target="_blank"> <img src="https://img.shields.io/badge/GitHub-006400?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub Profile"/></a>  <a href="https://myselfapoorvtyagi.github.io/" target="_blank"> <img src="https://img.shields.io/badge/MySite-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Site"/></a><br>
 
 🏆 Cloud AI Data Engineer | GCP & Python Certified Specialist <br>
-With over 6 years of experience in designing and implementing data solutions, I am also adept at collaborating with cross-functional teams to deliver high-impact business outcomes. Let’s explore how I can help you build stronger data solutions and drive real impact together!<br>
+With over 7 years of experience in designing and implementing data solutions, I am also adept at collaborating with cross-functional teams to deliver high-impact business outcomes. Let’s explore how I can help you build stronger data solutions and drive real impact together!<br>
 <br>
 🌱 Designing and optimizing scalable data pipelines on GCP and building real-time analytics solutions.<br>
 🔭 Advanced cloud architecture, Kubernetes orchestration, and system design for large-scale distributed systems.<br>
